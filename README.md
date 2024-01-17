@@ -10,7 +10,7 @@ Ce projet utilise l'intelligence artificielle pour suivre le visage d'une person
 ## Fonctionnalités
 
 - Suivi en temps réel du visage dans la vidéo.
-- Ajustement automatique de la caméra pour maintenir le visage au centre.
+- Ajustement automatique de l'image pour maintenir le visage au centre.
 
 ## Configuration Requise
 
