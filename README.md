@@ -1,10 +1,11 @@
 # Suivi Facial avec IA
 
 ## Description
+![](description.png)
 Ce projet utilise l'intelligence artificielle pour suivre le visage d'une personne dans une vidéo en temps réel. L'image s'ajuste automatiquement pour maintenir le visage de la personne au centre du cadre.
 
 ## Démo
-[![YOLO V8 - Facial Tracking](https://www.youtube.com/shorts/LpBKneENpIk)](https://www.youtube.com/shorts/LpBKneENpIk)
+[![YOLO V8 - Facial Tracking](https://img.youtube.com/vi/LpBKneENpIk/maxresdefault.jpg)](https://www.youtube.com/shorts/LpBKneENpIk)
 
 ## Fonctionnalités
 
